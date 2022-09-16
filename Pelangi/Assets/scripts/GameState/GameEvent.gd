@@ -1,0 +1,19 @@
+class_name GameEvent
+
+enum EVENT_TYPE{
+	TURN_START,
+	TURN_END,
+	DRAW,
+	GAIN_CREDIT,
+	INSTALL,
+	PLAY,
+	#Corp Specific
+	ADVANCE,
+	TRASH_RESOURCE,
+	PURGE_VIRUS_COUNTERS,
+	REZ,
+	#Runner
+	REMOVE_TAG,
+	START_RUN
+}
+	
