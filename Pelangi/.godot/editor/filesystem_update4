@@ -1,1 +1,6 @@
-res://Assets/scripts/GameState/GameEvent.gd
+res://Assets/Scenes/PlayArea.tscn
+res://Assets/addons/zylann.debug_draw/debug_draw.gd
+res://Assets/scripts/Hand.gd
+res://Assets/Scenes/CardZone.tscn
+res://Assets/Scenes/Hand.tscn
+res://Assets/Scenes/Card.tscn
